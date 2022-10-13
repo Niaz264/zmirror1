@@ -1,4 +1,4 @@
-FROM 412314/z-mirror:heroku
+FROM arkonn/mltb:heroku
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
